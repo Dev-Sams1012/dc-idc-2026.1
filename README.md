@@ -45,13 +45,16 @@ com um `index.md` de template dentro. **Não crie uma pasta nova** — isso evit
 > **Áudio/vídeo:** este repositório usa Git LFS (veja `.gitattributes`). Ainda assim, prefira
 > exportar o podcast em mono e taxa de bits moderada (96–128 kbps).
 
+### Exemplo real de uma postagem preenchida
+
+O `index.md` de cada pasta é só um template vazio. Para ver como fica uma postagem **completa**,
+de verdade, veja o exemplo de uma equipe do semestre anterior:
+[`equipe01/index.md` em `dc-idc-2025.1`](https://github.com/emanueles/dc-idc-2025.1/blob/master/equipe01/index.md).
+
 ## Guia completo (fork, commit, push, Pull Request)
 
 Passo a passo detalhado, com os dois caminhos (navegador ou linha de comando) e como resolver
-problemas comuns:
-[`guia-pull-request.md`](https://github.com/emanueles/dc-idc/blob/master/guia-pull-request.md)
-(no repositório do site — os comandos lá já usam este repositório, `dc-idc-2026.1`, como
-exemplo).
+problemas comuns: [`guia-pull-request.md`](guia-pull-request.md), neste mesmo repositório.
 
 **O Pull Request é o que conta como entrega.** Commits que ficam só no seu computador não
 chegam até o professor.
