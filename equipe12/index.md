@@ -40,4 +40,16 @@ Abordamos de forma descontraída (com direito à uma esquete bem engraçada) tem
 
 {{< youtube "aimiD9ozOHI" >}}
 
-{{< audio "nome-do-arquivo.mp3" >}}
+## 🎙️ Podcast: Computação no Combate à Dengue
+
+A tecnologia e a computação vão muito além do gerenciamento de dados: elas têm o potencial direto de salvar vidas. No nosso episódio de podcast, exploramos como o desenvolvimento científico acadêmico está atuando de forma prática na prevenção de epidemias urbanas.
+
+Neste episódio, os apresentadores debatem a aplicação prática de arquiteturas modernas da computação na saúde pública, trazendo uma análise descomplicada do artigo de autoria de **Nicodemos Freitas** (ex-aluno de pós-graduação da UFC), orientado pelo professor **Emanuel Bezerra Rodrigues**.
+
+* **Artigo analisado**: [Predição de casos de dengue na cidade de Fortaleza-CE utilizando internet das coisas e aprendizado de máquina](https://repositorio.ufc.br/handle/riufc/74332).
+* **Pesquisador mencionado**: Nicodemos Freitas ([Lattes](http://lattes.cnpq.br/7367523416288158)).
+* **Orientador mencionado**: Prof. Emanuel Bezerra Rodrigues ([Lattes](http://lattes.cnpq.br/0597956911969596)).
+
+{{< audio "Audio_Podcast.mp3" >}}
+
+Se esses conteúdos ajudaram você a enxergar a tecnologia sob uma nova perspectiva, aproveite para compartilhar esta postagem com mais pessoas que se interessam por ciência e inovação!
