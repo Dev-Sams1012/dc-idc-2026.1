@@ -22,10 +22,15 @@ draft: true
 [Jonathan Duarte Uchoa](https://www.instagram.com/sxwrzn/) e
 [Samuel Augusto de Abreu](https://www.instagram.com/samuel.au.ab/).
 
-<!--
-Escreva aqui o texto da sua postagem. Veja o passo a passo completo em guia-pull-request.md
-no repositório do site (emanueles/dc-idc).
--->
+**Principais temas e interesses abordados pela equipe**:
+
+* Armazenamento, Persistência e Recuperação de Dados
+* Internet das Coisas (IoT) e Computação Aplicada à Saúde [e-Health]
+* Inteligência Artificial e Aprendizado de Máquina [Machine Learning]
+
+Olá! Seja muito bem-vindo à postagem da **Equipe 12**. Aqui, reunimos dois trabalhos desenvolvidos pelo nosso grupo com o objetivo de traduzir conceitos tecnológicos avançados em explicações simples, didáticas e acessíveis para toda a comunidade.
+
+Abaixo, você confere o nosso vídeo explicativo sobre o ciclo de vida dos dados digitais e o nosso episódio de podcast focado em iniciativas de *e-health* voltadas para a saúde pública.
 
 {{< youtube "ID_DO_VIDEO" >}}
 
