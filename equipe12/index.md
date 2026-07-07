@@ -32,6 +32,12 @@ Olá! Seja muito bem-vindo à postagem da **Equipe 12**. Aqui, reunimos dois tra
 
 Abaixo, você confere o nosso vídeo explicativo sobre o ciclo de vida dos dados digitais e o nosso episódio de podcast focado em iniciativas de *e-health* voltadas para a saúde pública.
 
-{{< youtube "ID_DO_VIDEO" >}}
+## 🎥 Vídeo: Para onde vai o que você deleta?
+
+Você já parou para pensar no que realmente acontece quando clicamos no botão "excluir" de um arquivo? Será que ele simplesmente desaparece do computador num passe de mágica? No vídeo a seguir, desmistificamos o funcionamento oculto dos sistemas operacionais e detalhamos os processos físicos e lógicos por trás do armazenamento e da recuperação de arquivos.
+
+Abordamos de forma descontraída (com direito à uma esquete bem engraçada) temas como a diferença entre a estrutura de um HD e de um SSD, a lógica dos bits, o processo de *file carving* feito por softwares de recuperação e as maneiras seguras de eliminar um dado permanentemente (criptografia, sobrescrita e destruição física)
+
+{{< youtube "aimiD9ozOHI" >}}
 
 {{< audio "nome-do-arquivo.mp3" >}}
